@@ -2,7 +2,7 @@
 
 1) [Cкачать ShareX](https://github.com/ShareX/ShareX/releases/download/v16.1.0/ShareX-16.1.0-setup.exe)
 2) Установить
-3) [Войти в панель ](cdn.senpaihub.1rb1.me) (ЛОГИН И ПАРОЛЬ СКИНУ В ЛС zabolotoks)
+3) [Войти в панель ](https://cdn.senpaihub.1rb1.me) (ЛОГИН И ПАРОЛЬ СКИНУ В ЛС zabolotoks)
 4) Создать конфиг для ShareX
 	1) [Скрин](https://cdn.1rb1.me/u/8dfcf123-3d83-407e-88e6-c30ecafdf3f8.png)
 	2) [Скрин](https://cdn.1rb1.me/u/7599fcc4-f1e4-4c1d-aa52-09ec8dcedb89.png)
