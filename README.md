@@ -5,6 +5,9 @@
 3) [Войти в панель ](https://cdn.senpaihub.1rb1.me) (ЛОГИН И ПАРОЛЬ СКИНУ В ЛС zabolotoks)
 4) Создать конфиг для ShareX
 	1) ![Скрин](https://cdn.1rb1.me/u/8dfcf123-3d83-407e-88e6-c30ecafdf3f8.png)
+<p>
+    <img src="https://cdn.1rb1.me/u/8dfcf123-3d83-407e-88e6-c30ecafdf3f8.png" width="220" height="240" />
+</p>
 	2) ![Скрин](https://cdn.1rb1.me/u/7599fcc4-f1e4-4c1d-aa52-09ec8dcedb89.png)
 	3) Листаем в самый низ до кнопки [как на скрине](https://cdn.1rb1.me/u/12343fbc-075c-459d-a6ca-26da24e890f7.png) и нажимаем не её. Видим окно с настройкой конфига.
 	4) Настраиваем как на скриншоте и качаем (нажимая на кнопку Download)
